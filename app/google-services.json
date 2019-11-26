@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98622753715",
+    "firebase_url": "https://peppy-vertex-251314.firebaseio.com",
+    "project_id": "peppy-vertex-251314",
+    "storage_bucket": "peppy-vertex-251314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98622753715:android:17f6fb6823920a4ff399c6",
+        "android_client_info": {
+          "package_name": "com.example.hp.calender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98622753715-6v114tvq73rc66697t8ce7eh5o1gotcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.calender",
+            "certificate_hash": "014e1837f6727976dccf9969206e4608ec64a921"
+          }
+        },
+        {
+          "client_id": "98622753715-7q6dv02nb82q8jtfknivrf8ikf04k8n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDExVZIKHDifx5jSaKnGIHIZKkBvLtSegk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98622753715-7q6dv02nb82q8jtfknivrf8ikf04k8n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="server_client_id">98622753715-e3b3b4mdkipl9vu74dis7pbmo9mlij59.apps.googleusercontent.com</string>
+    <string name="id_token_fmt">Access Token: %s</string>
+</resources>
